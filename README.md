@@ -6,7 +6,7 @@ Obs1: se você não quiser/puder atribuir permissão para o setup.sh , o arquivo
 
 Obs2: fiz as configurações automáticas para um ambiente Ubuntu.
 
-Obs3: usamos o source para executar o script para garantir que quaisquer alterações no ambiente terão efeito e permanecerão no shell atual.
+Obs3: o source é usado para executar o script para garantir que quaisquer alterações no ambiente terão efeito e permanecerão no shell atual.
 
 Atenciosamente,
 
